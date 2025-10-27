@@ -22,7 +22,20 @@
 > 🎯  Développer mon expertise en **administration d’infrastructures sécurisées** et partager mes connaissances à travers le mentorat et des projets open-source..
 
 ---
+### 📌 Projets épinglés
 
+<div align="center">
+
+🔹 [**Go-tuto**](https://github.com/fibou1/Go-tuto)  
+*Cours et exercices autour du langage Go, incluant un mini-quiz console & web.*
+
+🔹 [**ynov-git-avance--fr**](https://github.com/fibou1/ynov-git-avance--fr)  
+*Capsule pédagogique Git avancée pour étudiants Ynov (branches, merge, rebase, conflits, etc.).*
+
+</div>
+
+---
+---
 ###  Me contacter
 
 ✉️ firas.bouricha@ynov.com
