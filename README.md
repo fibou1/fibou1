@@ -27,7 +27,7 @@
 <div align="center">
 
 🔹 [**Go-tuto**](https://github.com/fibou1/Go-tuto)  
-*Cours et exercices autour du langage Go, incluant un mini-quiz console & web.*
+*Cours et exercices autour du langage Go*
 
 🔹 [**ynov-git-avance--fr**](https://github.com/fibou1/ynov-git-avance--fr)  
 *Capsule pédagogique Git avancée pour étudiants Ynov (branches, merge, rebase, conflits, etc.).*
