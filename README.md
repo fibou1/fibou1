@@ -27,16 +27,6 @@
 
 ✉️ firas.bouricha@ynov.com
 
----
-### 📈 Statistiques GitHub
-
-<div align="center">
-
-![Firas GitHub Stats](https://github-readme-stats.vercel.app/api?username=fibou1&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fibou1&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 <p align="center">
