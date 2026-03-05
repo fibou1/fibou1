@@ -9,7 +9,7 @@
 
 ### 💡 À propos de moi
 
- **Aspirant Administrateur d’Infrastructure Sécurisée**  
+ **Aspirant Ingénieur infrastructure informatique & Automatisation**  
  Étudiant en Master Cloud, Sécurité & Infrastructure  
  Mentor à Ynov Sophia Antipolis (filière Informatique)  
  Basé à Nice, France  
@@ -19,7 +19,7 @@
 
 ###  Objectif actuel
 
-> 🎯  Développer mon expertise en **administration d’infrastructures sécurisées** et partager mes connaissances à travers le mentorat et des projets open-source..
+> 🎯  Développer mon expertise en **administration d’infrastructures sécurisées / Automatisation** et partager mes connaissances à travers le mentorat et des projets open-source..
 
 ---
 ### 📌 Projets épinglés
