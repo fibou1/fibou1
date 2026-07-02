@@ -36,7 +36,9 @@
 *Pipeline CI/CD durci pour une application Node.js/Express : gouvernance Git stricte, sécurité Shift Left (hook pre-commit, Gitleaks), secrets chiffrés (age + SOPS), conteneurisation Docker scannée (Trivy, SBOM), CI bloquante (tests, Gitleaks, CodeQL) et déploiement automatisé conditionnel vers GitHub Pages (frontend) et Vercel (backend), avec healthcheck et gestion de la concurrence.*
 
 </div>
+
 ---
+
 ###  Me contacter
 
 ✉️ firas.bouricha@ynov.com
