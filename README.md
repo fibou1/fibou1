@@ -33,7 +33,7 @@
 *Capsule pédagogique Git avancée pour étudiants Ynov (branches, merge, rebase, conflits, etc.).*
 
 
-🔹 [**projet DevSecOps**]([https://github.com/fibou1/ynov-git-avance--fr**](https://github.com/fibou1/Projet-_final_DevSecOps)  
+🔹 [**projet DevSecOps**]([https://github.com/fibou1/ynov-git-avance--fr**]([https://github.com/fibou1/Projet-_final_DevSecOps](https://github.com/fibou1/Projet-_final_DevSecOps))  
 *Projet DevSecOps : Pipeline CI/CD durci pour une app Node.js/Express : gouvernance Git stricte, sécurité Shift Left (hook pre-commit, gitleaks), secrets chiffrés (age + SOPS), conteneurisation Docker scannée (Trivy, SBOM), CI bloquante (tests, gitleaks, CodeQL) et déploiement automatisé conditionnel vers GitHub Pages (frontend) et Vercel (backend), avec healthcheck et gestion de la concurrence.*
 
 </div>
