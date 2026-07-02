@@ -37,7 +37,6 @@
 
 </div>
 ---
----
 ###  Me contacter
 
 ✉️ firas.bouricha@ynov.com
