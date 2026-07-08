@@ -28,6 +28,10 @@
   
 🔹 [**🏠HOME_LAB**](https://github.com/fibou1/Home_Lab)  
 *Documentation technique et architecture de mon infrastructure auto-hébergée (HomeLab).*
+
+🔹 [**VM Automation via GLPI : VM AS A SERVICE(VMAAS)**](https://github.com/fibou1/vm-automation-via-glpi)  
+*Documentation techniqueAutomatiser la création d’une VM Proxmox à partir d’un template via Terraform, piloté par un playbook Ansible.*
+
   
 🔹 [**Go-tuto**](https://github.com/fibou1/Go-tuto)  
 *Cours et exercices autour du langage Go*
