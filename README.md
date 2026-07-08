@@ -32,12 +32,6 @@
 🔹 [**VM Automation via GLPI : VM AS A SERVICE(VMAAS)**](https://github.com/fibou1/vm-automation-via-glpi)  
 *Documentation techniqueAutomatiser la création d’une VM Proxmox à partir d’un template via Terraform, piloté par un playbook Ansible.*
 
-  
-🔹 [**Go-tuto**](https://github.com/fibou1/Go-tuto)  
-*Cours et exercices autour du langage Go*
-
-🔹 [**ynov-git-avance--fr**](https://github.com/fibou1/ynov-git-avance--fr)  
-*Capsule pédagogique Git avancée pour étudiants Ynov (branches, merge, rebase, conflits, etc.).*
 
 🔹 [**Projet DevSecOps**](https://github.com/fibou1/Projet-_final_DevSecOps)  
 *Pipeline CI/CD durci pour une application Node.js/Express : gouvernance Git stricte, sécurité Shift Left (hook pre-commit, Gitleaks), secrets chiffrés (age + SOPS), conteneurisation Docker scannée (Trivy, SBOM), CI bloquante (tests, Gitleaks, CodeQL) et déploiement automatisé conditionnel vers GitHub Pages (frontend) et Vercel (backend), avec healthcheck et gestion de la concurrence.*
@@ -45,6 +39,12 @@
 
 🔹 [**Projet_IAAC:opentofu + ansible **](https://github.com/fibou1/Infrastructure-as-Code-Automatisation-Multi-VMs)  
 *Le projet combine OpenTofu pour l'orchestration des machines virtuelles, Cloud-Init pour le pré-provisionnement, et Ansible pour le déploiement applicatif, la sécurité pare-feu et la supervision..*
+
+🔹 [**Go-tuto**](https://github.com/fibou1/Go-tuto)  
+*Cours et exercices autour du langage Go*
+
+🔹 [**ynov-git-avance--fr**](https://github.com/fibou1/ynov-git-avance--fr)  
+*Capsule pédagogique Git avancée pour étudiants Ynov (branches, merge, rebase, conflits, etc.).*
 
 
 </div>
