@@ -26,7 +26,7 @@
 
 <div align="center">
   
-🔹 [**HOME_LAB**](https://github.com/fibou1/Home_Lab)  
+🔹 [**🏠HOME_LAB**](https://github.com/fibou1/Home_Lab)  
 *Documentation technique et architecture de mon infrastructure auto-hébergée (HomeLab).*
   
 🔹 [**Go-tuto**](https://github.com/fibou1/Go-tuto)  
